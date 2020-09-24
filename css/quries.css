@@ -1,0 +1,285 @@
+@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {
+body{
+	height: 100vh;
+	width: 80vw;
+    background-image: linear-gradient(to center, 90deg, blueviolet 50%, lightgrey 33.33%, floralwhite 66.66%);
+    background-size: 100% 100%;
+}
+.mainbox{
+	margin-left: 80px;
+	margin-top: 60px;
+}
+.sect1{
+	margin-right: -10%;
+    margin-left: 15%;
+    margin-top: 15%;
+}
+.simp{
+	font-size: 30px;
+}
+.para1{
+	font-size: 16px;
+}
+
+}
+@media only screen and (max-width: 768px), only screen and (max-device-width: 768px) {
+.mainbox {
+    margin-right: -50%;
+    margin-left: 100px;
+    margin-top: 15%;
+}
+.sect1{
+	margin-right: -50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+.sam{
+	font-size: 18px;
+    margin-top: -75px;
+    margin-right: 43%;
+}
+.ava{
+	font-size: 14px;
+	margin-right: 51%;
+}
+.head{
+	padding-bottom: 10px;
+}
+.img1 {
+    width: 50px;
+    border-radius: 50px;
+    margin-left: 10%;
+    margin-top: 10px;
+}   
+.p1{
+	padding: 5px 15px;
+    font-size: 16px;
+    margin-right: 40%;
+} 
+.p11{
+	padding: 5px 15px;
+    font-size: 16px;
+    margin-right: 40%;
+    margin-top: 30%;
+}
+.img2{
+	width: 80px;
+}
+
+.p2{
+	font-size: 16px;
+	margin-left: 40%;
+}
+.p22{
+	font-size: 16px;
+	margin-left: 40%;
+}
+.btn{
+	font-size: 24px;
+	margin-top: 20px;
+}
+.typ{
+	font-size: 18px;
+	margin-left: 10px;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+.sect1{
+	margin-top: 15%;
+	padding-bottom: 10%;
+}
+.simp{
+	font-size: 42px;
+}
+.para1{
+	font-size: 20px;
+}
+}
+@media only screen and (max-width: 1024px), only screen and (max-device-width: 1024px) {
+body{
+	height: 200vh;
+    background-size: 100% 100%;
+}
+.mainbox {
+    margin-right: -50%;
+    margin-left: 100px;
+    margin-top: 15%;
+    padding-bottom: 20%;
+}
+.sect1{
+	margin-right: -50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+.we{
+	padding-top: 30px;
+}
+.sam{
+	font-size: 24px;
+    margin-top: -110px;
+    margin-right: 45%;
+}
+.ava{
+	font-size: 20px;
+	margin-right: 51%;
+	margin-top: -5%;
+}
+.head{
+	padding-bottom: 10px;
+}
+.img1 {
+    width: 80px;
+    border-radius: 50px;
+    margin-left: 10%;
+    margin-top: 10px;
+}   
+.p1{
+	padding: 5px 15px;
+    font-size: 24px;
+    margin-right: 40%;
+} 
+.p11{
+	padding: 15px 10px 15px 10px;
+    font-size: 24px;
+    margin-right: 40%;
+    margin-top: 35%;
+}
+.img2{
+	width: 120px;
+}
+.p2{
+	font-size: 24px;
+	margin-left: 40%;
+}
+.p22{
+	font-size: 24px;
+	margin-left: 40%;
+}
+.btn{
+	font-size: 42px;
+	margin-top: 20px;
+}
+.typ{
+	font-size: 28px;
+	margin-left: 10px;
+	padding-top: 30px;
+	padding-right: 40%;
+	padding-bottom: 5%;
+	margin-top: 10%;
+
+}
+.sub{
+	float: right;
+	margin-right:-5%;
+	padding: 3%;
+	border-radius: 75px;
+	margin-top: 7%;
+	position: absolute;
+	z-index: 5;
+}
+.sect1{
+	margin-top: 15%;
+	padding-bottom: 10%;
+}
+.simp{
+	font-size: 60px;
+}
+.para1{
+	font-size: 36px;
+}
+}
+
+@media only screen and (max-width: 1200px), only screen and (max-device-width: 1200px) {
+body{
+	height: 200vh;
+    background-size: 100% 100%;
+}
+.mainbox {
+    margin-right: -50%;
+    margin-left: 100px;
+    margin-top: 15%;
+    padding-bottom: 20%;
+}
+.sect1{
+	margin-right: -50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+.we{
+	padding-top: 30px;
+}
+.sam{
+	font-size: 24px;
+    margin-top: -110px;
+    margin-right: 45%;
+}
+.ava{
+	font-size: 20px;
+	margin-right: 51%;
+	margin-top: -5%;
+}
+.head{
+	padding-bottom: 10px;
+}
+.img1 {
+    width: 80px;
+    border-radius: 50px;
+    margin-left: 10%;
+    margin-top: 10px;
+}   
+.p1{
+	padding: 5px 15px;
+    font-size: 24px;
+    margin-right: 40%;
+} 
+.p11{
+	padding: 15px 10px 15px 10px;
+    font-size: 24px;
+    margin-right: 40%;
+    margin-top: 35%;
+}
+.img2{
+	width: 120px;
+}
+.p2{
+	font-size: 24px;
+	margin-left: 40%;
+}
+.p22{
+	font-size: 24px;
+	margin-left: 40%;
+}
+.btn{
+	font-size: 42px;
+	margin-top: 20px;
+}
+.typ{
+	font-size: 28px;
+	margin-left: 10px;
+	padding-top: 30px;
+	padding-right: 40%;
+	padding-bottom: 5%;
+	margin-top: 10%;
+
+}
+.sub{
+	float: right;
+	margin-right:-5%;
+	padding: 3%;
+	border-radius: 75px;
+	margin-top: 7%;
+	position: absolute;
+	z-index: 5;
+}
+.sect1{
+	margin-top: 15%;
+	padding-bottom: 10%;
+}
+.simp{
+	font-size: 60px;
+}
+.para1{
+	font-size: 36px;
+}
+
+}
